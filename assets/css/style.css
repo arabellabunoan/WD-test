@@ -1,5 +1,6 @@
-
-
+* {
+    background-color: black;
+}
 .h1 {
     color: cornflowerblue;
     align-content: center;
