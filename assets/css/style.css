@@ -1,7 +1,11 @@
 * {
-    background-color: black;
+    background-color: blue;
 }
+
 .h1 {
     color: cornflowerblue;
+}
+
+img{
     align-content: center;
 }
