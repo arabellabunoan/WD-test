@@ -1,5 +1,6 @@
 
 
-body h1 {
-   color: cornflowerblue;
+.h1 {
+    color: cornflowerblue;
+    align-content: center;
 }
