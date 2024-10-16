@@ -2,15 +2,16 @@
     background-color: rgb(253, 253, 242);
 }
 
+header {
 .h1 {
     color: cornflowerblue;
-}
+    }
 
 .logo{
     position: absolute;
     width: 500px;
     height: 500px;
-}
+    }
 
 .bella{
     position: absolute;
@@ -20,6 +21,7 @@
     height: 100px;
     transform: translate(50%, 50%);
 
+    }
 }
 
 .abtmetext.a{
