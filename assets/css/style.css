@@ -12,8 +12,13 @@
     height: 5px;
 }
 
-.abtmephoto{
+.bella{
     position: absolute;
+    top: 180%;
+    left: 12rem;    
+    width: 400px;
+    height: 100px;
+    transform: translate(50%, 50%);
 
 }
 
