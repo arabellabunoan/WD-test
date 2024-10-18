@@ -32,6 +32,19 @@
     }
 }
 
-.abtmetext.a{
-   
+.about {
+    width: 60%;
 }
+h1 {
+    color: #FF85A2;
+    font-size: 5rem;
+}
+h2 {
+    color: #30BBCF;
+    font-size: 4rem;
+}
+p {
+    font-size: 1.5rem;
+    text-align: justify;
+    padding-top: 1rem;
+    padding-bottom: 3rem;
